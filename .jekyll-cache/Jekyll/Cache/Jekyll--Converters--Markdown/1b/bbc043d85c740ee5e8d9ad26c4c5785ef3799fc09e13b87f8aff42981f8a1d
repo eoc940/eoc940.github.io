@@ -1,0 +1,5 @@
+I"C<p>The jekyll-gitbook theme leverages <a href="https://github.com/allejo/jekyll-toc">jekyll-toc</a> to generate the <em>Contents</em> for the page.
+The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
+configuration in <code class="language-plaintext highlighter-rouge">_config.yml</code>:</p>
+
+:ET

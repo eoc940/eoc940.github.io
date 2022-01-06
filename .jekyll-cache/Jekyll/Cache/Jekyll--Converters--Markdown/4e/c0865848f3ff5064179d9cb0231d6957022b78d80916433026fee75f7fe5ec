@@ -1,0 +1,178 @@
+I"r
+<p>The jekyll-gitbook theme leverages <a href="https://github.com/allejo/jekyll-toc">jekyll-toc</a> to generate the <em>Contents</em> for the page.
+The TOC feature is not enabled by default. To use the TOC feature, modify the TOC
+configuration in <code class="language-plaintext highlighter-rouge">_config.yml</code>:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">toc</span><span class="pi">:</span>
+    <span class="na">enabled</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div></div>
+
+<h2 id="why-this-repo">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h2 id="why-this-repo-1">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-2">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-3">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
+<h2 id="why-this-repo-4">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h2 id="why-this-repo-5">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-6">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-7">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
+<h2 id="why-this-repo-8">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h2 id="why-this-repo-9">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-10">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-11">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
+<h2 id="why-this-repo-12">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>d</li>
+</ol>
+
+<h2 id="why-this-repo-13">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+</ul>
+
+<h2 id="why-this-repo-14">Why this repo</h2>
+
+<p>long contents …..</p>
+
+<ol>
+  <li>e</li>
+  <li>f</li>
+  <li>g</li>
+  <li>h</li>
+</ol>
+
+<h2 id="why-this-repo-15">Why this repo</h2>
+
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+
+:ET
