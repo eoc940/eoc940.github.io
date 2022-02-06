@@ -47,3 +47,5 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+
+category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
